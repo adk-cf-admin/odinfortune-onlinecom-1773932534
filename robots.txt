@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://odinfortune-online.com/
+Sitemap: https://odinfortune-online.com/sitemap.xml

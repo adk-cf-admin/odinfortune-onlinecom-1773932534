@@ -1,0 +1,19 @@
+{
+  "name": "OdinFortune",
+  "short_name": "OdinFortune",
+  "theme_color": "",
+  "background_color": "#002223",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773931367-favicon-1772460499.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
